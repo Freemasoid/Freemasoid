@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# 📚 I'm currently learning Next.js
+# 📚 I'm currently learning Next.js & PostgreSQL
 # 💻 Tech Stack:
 
 | Category        | Skills        |
