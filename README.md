@@ -1,7 +1,20 @@
-# Hi there 👋
+# Hi there, name's Roman 👋
 
-# 📚 I'm currently learning Next.js & PostgreSQL
-# 💻 Tech Stack:
+## 📚 Roadmap
+
+### Learning
+| What | Status | Milestone | Goals | ETA |
+| :---: | :---: | :---: | :---: | :---: |
+| NextJS | 🚀 | Project idea is pending... | 1 / 2 | Pending |
+| Typescript | 🚀 | Converting **[node-jobsync-api](https://github.com/Freemasoid/node-jobsync-api)** | 0 / 2 | 03 Mar 2024 |
+| PostgreSQL | 🚀 | In training... | 2 / 3 | 10-17 March 2024 |
+
+### Future plans
+| What | Status | Milestone | Goals | ETA |
+| :---: | :---: | :---: | :---: | :---: |
+| Go | Pending | Start Learning | 0/2 | March-April 2024 |
+
+## 💻 Tech Stack:
 
 | Category        | Skills        |
 |-----------------|---------------|
@@ -15,7 +28,7 @@
 | Design Tools    | ![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 | Learning | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)|
   
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
  ![](https://github-readme-stats.vercel.app/api?username=Freemasoid&theme=react&hide_border=true&include_all_commits=false&count_private=false)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Freemasoid&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
 
