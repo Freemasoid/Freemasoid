@@ -1,18 +1,29 @@
-# Hi there, name's Roman 👋
+## ☕️ About
 
-## 📚 Roadmap
+Hi, my name is Roman, I'm a full-stack developer.
 
-### Learning
+This is not my day job, but it's something I'm aiming for. I've got a day job that keeps me busy, but I'm all about using my free time to learn new stuff, even if it means burning the midnight oil.
+
+You might not see tons of commits from me, that's because I build stuff, give it a good test run, and then hit commit. Sometimes, that process can stretch over a few days. Especially for new projects.
+
+Below you will find a roadmap showing what am I up to now and some future plans.
+If you want to contact me - contacts are in profile description. Discord, Twitter, LinkedIn, pick your poison.
+
+## 📍 Roadmap
+
+### 📚 Learning
 | What | Status | Milestone | Goals | ETA |
 | :---: | :---: | :---: | :---: | :---: |
-| NextJS | 🚀 | Project idea is pending... | 1 / 2 | Pending |
-| Typescript | 🚀 | Converting **[node-jobsync-api](https://github.com/Freemasoid/node-jobsync-api)** | 0 / 2 | 03 Mar 2024 |
+| NextJS | 🚀 | GPT City guide | 1 / 2 | March-April 2024 |
+| Typescript | 🚀 | Converting **[mern-jobsync-app](https://github.com/Freemasoid/mern-jobsync-app)** | 1 / 2 | 24 Mar 2024 |
 | PostgreSQL | 🚀 | In training... | 2 / 3 | 10-17 March 2024 |
 
-### Future plans
+### 🧭 Future plans
 | What | Status | Milestone | Goals | ETA |
 | :---: | :---: | :---: | :---: | :---: |
 | Go | Pending | Start Learning | 0/2 | March-April 2024 |
+| Python | Pending | Refresh knowledge and make something | 0/2 | ~ May 2024 |
+| Rust | Pending | Want to try out | 0/1 | Undefined |
 
 ## 💻 Tech Stack:
 
