@@ -7,7 +7,7 @@ This is not my day job, but it's something I'm aiming for. I've got a day job th
 You might not see tons of commits from me, that's because I build stuff, give it a good test run, and then hit commit. Sometimes, that process can stretch over a few days. Especially for new projects.
 
 Below you will find a roadmap showing what am I up to now and some future plans.
-If you want to contact me - contacts are in profile description. Discord, Twitter, LinkedIn, pick your poison.
+If you want to contact me - contacts are in profile description. Discord, Twitter, LinkedIn - pick your poison.
 
 ## 📍 Roadmap
 
