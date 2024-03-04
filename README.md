@@ -15,7 +15,6 @@ If you want to contact me - contacts are in profile description. Discord, Twitte
 | What | Status | Milestone | Goals | ETA |
 | :---: | :---: | :---: | :---: | :---: |
 | NextJS | 🚀 | GPT City guide | 1 / 2 | March-April 2024 |
-| PostgreSQL | 🚀 | In training... | 2 / 3 | 10-17 March 2024 |
 
 ### 🧭 Future plans
 | What | Status | Milestone | Goals | ETA |
