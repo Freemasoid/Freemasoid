@@ -14,13 +14,15 @@ If you want to contact me - contacts are in profile description. Discord, Twitte
 ### 📚 Learning
 | What | Status | Milestone | Goals | ETA |
 | :---: | :---: | :---: | :---: | :---: |
-| Go | Pending | Start Learning | 0/2 | March-April 2024 |
+| Go | 🚀 | In training... | 0/2 | End of March - April 2024 |
+| Kotlin | Pending | Start learning | 0/2 | May 2024 |
+| Three.js | Pending | Start learning | 0/2 | TBD |
 
 
 ### 🏗️ Projects
 | What | Status | Milestone | Goals | ETA |
 | :---: | :---: | :---: | :---: | :---: |
-| NextJS | 🚀 | preparing design **[next-gpt-cityGuide](https://github.com/Freemasoid/next-gpt-cityGuide)** | 0 / 2 | March-April 2024 |
+| NextJS | 🚀 | In development **[next-gpt-cityGuide](https://github.com/Freemasoid/next-gpt-cityGuide)** | 0 / 2 | March-April 2024 |
 
 
 ### 🧭 Future plans
