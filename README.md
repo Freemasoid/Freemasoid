@@ -22,7 +22,7 @@ If you want to contact me - contacts are in profile description. Discord, Twitte
 ### 🏗️ Projects
 | What | Status | Milestone | Goals | ETA |
 | :---: | :---: | :---: | :---: | :---: |
-| NextJS | 🚀 | In development **[next-gpt-cityGuide](https://github.com/Freemasoid/next-gpt-cityGuide)** | 0 / 2 | March-April 2024 |
+| NextJS | 🚀 | In development **[next-gpt-cityGuide](https://github.com/Freemasoid/next-gpt-cityGuide)** | 0 / 2 | April 2024 |
 
 
 ### 🧭 Future plans
