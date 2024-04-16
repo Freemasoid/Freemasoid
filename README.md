@@ -14,7 +14,7 @@ If you want to contact me - contacts are in profile description. Discord, Twitte
 ### 📚 Learning
 | What | Status | Milestone | Goals | ETA |
 | :---: | :---: | :---: | :---: | :---: |
-| Go | 🚀 | In training... | 0/2 | April 2024 |
+| Go | 🚀 | Go training projects by FreeCodeCamp | 1/2 | April-May 2024 |
 | Kotlin | Pending | Start learning | 0/2 | May 2024 |
 | Three.js | Pending | Start learning | 0/2 | TBD |
 
