@@ -33,7 +33,10 @@ If you want to contact me - contacts are in profile description. Discord, Twitte
 
 
 ### 📖 Reading
-- Martin Kleppmann. Designing data-intensive applications.
+| Pages| Author | Name |
+| :---: | :---: | :---: |
+| 406-544 | Martin Kleppmann | Designing data-intensive applications |
+| 0 - 347 | Thomas Hunter II | Distributed systems with Node.js |
 
 
 ## 💻 Tech Stack:
