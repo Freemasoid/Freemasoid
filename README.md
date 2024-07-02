@@ -1,42 +1,38 @@
 ## ☕️ About
 
-Hi, my name is Roman, I'm a full-stack developer.
-
-This is not my day job, but it's something I'm aiming for. I've got a day job that keeps me busy, but I'm all about using my free time to learn new stuff, even if it means burning the midnight oil.
-
-You might not see tons of commits from me, that's because I build stuff, give it a good test run, and then hit commit. Sometimes, that process can stretch over a few days. Especially for new projects.
-
-Below you will find a roadmap showing what am I up to now and some future plans.
-If you want to contact me - contacts are in profile description. Discord, Twitter, LinkedIn - pick your poison.
+Hi, my name is Roman
 
 ## 📍 Roadmap
 
 ### 📚 Learning
 | What | Status | Milestone | Goals | ETA |
 | :---: | :---: | :---: | :---: | :---: |
-| Go | 🚀 | Go training projects by FreeCodeCamp | 1/2 | April-May 2024 |
-| Swift | Pending | Start learning | 0/2 | May 2024 |
-| Three.js | Pending | Start learning | 0/2 | TBD |
+| Go | 🚀 | Go - doing some projects | 1/2 | ~ |
 
-
-### 🏗️ Projects
+<!-- ### 🏗️ Current projects
 | What | Status | Milestone | Goals | ETA |
 | :---: | :---: | :---: | :---: | :---: |
 | NextJS | Pending | Convert **[mern-jobsync-app](https://github.com/Freemasoid/mern-jobsync-app)** | 1 / 2 | Pending |
-
+-->
 
 ### 🧭 Future plans
 | What | Status | Milestone | Goals | ETA |
 | :---: | :---: | :---: | :---: | :---: |
-| Python | Pending | Refresh knowledge and make something | 0/2 | ~ May 2024 |
-| Rust | Pending | Want to try out | 0/1 | Undefined |
+| Three.js | Pending | Start learning | 0/2 | ~ |
+| Python | Pending | Refresh knowledge and make something | 0/2 | ~ |
+| Swift | Pending | Start learning | 0/2 | ~ |
 
+<details>
+  <summary><h3>📖 Reading</h3></summary>
 
-### 📖 Reading
-| Pages| Author | Name |
+  | Pages| Author | Name |
 | :---: | :---: | :---: |
-| 406-544 | Martin Kleppmann | Designing data-intensive applications |
-| 0 - 347 | Thomas Hunter II | Distributed systems with Node.js |
+| 544-544 | Martin Kleppmann | Designing data-intensive applications |
+| 112 - 347 | Thomas Hunter II | Distributed systems with Node.js |
+| 10 - 185 | Thomas Hunter II & Bryan English | Multithreaded JavaScript |
+| 0 - 355 | Teiva Harsanyi | 100 Go Mistakes and how to avoid them |
+
+</details>
 
 
 ## 💻 Tech Stack:
@@ -51,7 +47,6 @@ If you want to contact me - contacts are in profile description. Discord, Twitte
 | Hosting         | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) |
 | Tools | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) |
 | Design Tools    | ![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
-| Learning | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)|
   
 ## 📊 GitHub Stats:
 
