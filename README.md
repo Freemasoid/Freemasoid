@@ -8,14 +8,13 @@ Hi, my name is Roman
 | What | Status | Milestone | Goals | ETA |
 | :---: | :---: | :---: | :---: | :---: |
 | Swift | 🚀 | repo **[swift-practice-projects](https://github.com/Freemasoid/swift-practice-projects)** | 3/∞ | ~ |
-| TypeScript | 🚀 | Store app | 0/∞ | ~ |
+| TypeScript | 🚀 | repo **[ts-react-comfy-zone](https://github.com/Freemasoid/ts-react-comfy-zone)**  | 0/∞ | ~ |
 
 
 ### 🧭 Future plans
 | What | Status | Milestone | Goals | ETA |
 | :---: | :---: | :---: | :---: | :---: |
 | Three.js | On halt | No time | 0/2 | ~ |
-
 
 
 <!-- <details>
