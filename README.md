@@ -1,20 +1,20 @@
-## ☕️ About
+<!-- ## ☕️ About
 
 Hi, my name is Roman
 
 ## 📍 Roadmap
-
+-->
 ### 🏗️ Current projects
-| What | Status | Milestone | Goals | ETA |
-| :---: | :---: | :---: | :---: | :---: |
-| Swift | 🚀 | repo **[swift-practice-projects](https://github.com/Freemasoid/swift-practice-projects)** | 3/∞ | ~ |
-| TypeScript | 🚀 | repo **[ts-react-comfy-zone](https://github.com/Freemasoid/ts-react-comfy-zone)**  | 0/∞ | ~ |
+| Tech | Status | What | ETA |
+| :---: | :---: | :---: | :---: |
+| Swift | 🚀 | repo **[swift-practice-projects](https://github.com/Freemasoid/swift-practice-projects)** | ~ |
+| TypeScript | 🚀 | repo **[ts-react-comfy-zone](https://github.com/Freemasoid/ts-react-comfy-zone)**  |  ~ |
 
 
 ### 🧭 Future plans
-| What | Status | Milestone | Goals | ETA |
-| :---: | :---: | :---: | :---: | :---: |
-| Three.js | On halt | No time | 0/2 | ~ |
+| Tech | Status | What | ETA |
+| :---: | :---: | :---: | :---: |
+| Three.js | On halt | No time | ~ |
 
 
 <!-- <details>
