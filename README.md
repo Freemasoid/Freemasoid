@@ -41,5 +41,5 @@ Hi, my name is Roman
   
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Freemasoid&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=freemasoid&theme=react&show_icons=true&hide_border=true&layout=compact)
 
