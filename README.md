@@ -8,7 +8,7 @@ Hi, my name is Roman
 | Tech | Status | What | ETA |
 | :---: | :---: | :---: | :---: |
 | Swift | 🚀 | repo **[swift-practice-projects](https://github.com/Freemasoid/swift-practice-projects)** | ~ |
-| TypeScript | 🚀 | repo **[ts-react-comfy-zone](https://github.com/Freemasoid/ts-react-comfy-zone)**  |  ~ |
+| TypeScript | 🚀 | repo **[ts-react-comfy](https://github.com/Freemasoid/ts-react-comfy)**  |  ~ |
 
 
 ### 🧭 Future plans
