@@ -5,11 +5,11 @@ Hi, my name is Roman
 ## 📍 Roadmap
 -->
 ### 🏗️ Current projects
-| Tech | Status | What | ETA |
-| :---: | :---: | :---: | :---: |
-| Swift | 🚀 | repo **[swift-practice-projects](https://github.com/Freemasoid/swift-practice-projects)** | ~ |
-| TypeScript | 🚀 | repo **[ts-react-comfy-zone](https://github.com/Freemasoid/ts-react-comfy-zone)**  |  ~ |
-
+| Tech | Status | What | 
+| :---: | :---: | :---: |
+| Swift | ⌛ | repo **[swift-practice-projects](https://github.com/Freemasoid/swift-practice-projects)** |
+| TypeScript | 🚀 | repo **[ts-react-comfy-zone](https://github.com/Freemasoid/ts-react-comfy-zone)**  |
+| NextJS | 🚀 | repo **[nextjs-urbaniq-explorer](https://github.com/Freemasoid/nextjs-urbaniq-explorer)**  |
 
 ### 🧭 Future plans
 | Tech | Status | What | ETA |
