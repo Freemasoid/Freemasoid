@@ -11,7 +11,7 @@ Hi, my name is Roman
 | :----------: | :----: | :--------------------------------------------------------------------------------------------------------------------: |
 |    Swift     |   🚀   |               repo **[swift-practice-projects](https://github.com/Freemasoid/swift-practice-projects)**                |
 |    NextJS    |   🚀   |               repo **[nextjs-urbaniq-explorer](https://github.com/Freemasoid/nextjs-urbaniq-explorer)**                |
-| React Native |   🚀   | course **[React Native - The Practical Guide [2025]](https://www.udemy.com/course/react-native-the-practical-guide/)** |
+| React Native |   🚀   | repo **[react-native-course](https://github.com/Freemasoid/react-native-course)** |
 
 ### 🧭 Future plans
 
