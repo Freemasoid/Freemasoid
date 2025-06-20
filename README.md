@@ -10,7 +10,6 @@ Hi, my name is Roman
 |     Tech     | Status |                                                          What                                                          |
 | :----------: | :----: | :--------------------------------------------------------------------------------------------------------------------: |
 |    Swift     |  ⌛️  |              need to find better materials to go through        |
-|    NextJS    |   🚀   |               repo **[nextjs-urbaniq-explorer](https://github.com/Freemasoid/nextjs-urbaniq-explorer)**                |
 | React Native |   🚀   | course **[React Native - The Practical Guide [2025]](https://www.udemy.com/course/react-native-the-practical-guide/)**, check repos |
 
 ### 🧭 Future plans
