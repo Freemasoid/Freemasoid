@@ -1,34 +1,9 @@
-<!-- ## ☕️ About
-
-Hi, my name is Roman
-
-## 📍 Roadmap
--->
-
 ### 🏗️ Current projects
 
 |     Tech     | Status |                                                          What                                                          |
 | :----------: | :----: | :--------------------------------------------------------------------------------------------------------------------: |
-|    Swift     |  ⌛️  |              need to find better materials to go through        |
-| React Native |   🚀   | course **[React Native - The Practical Guide [2025]](https://www.udemy.com/course/react-native-the-practical-guide/)**, check repos |
+| React Native |   🚀   | **[Expensio - finance tracker](https://github.com/Freemasoid/react-native-expensio)**|
 
-### 🧭 Future plans
-
-|   Tech   | Status  |  What   | ETA |
-| :------: | :-----: | :-----: | :-: |
-| Three.js | On halt | No time |  ~  |
-
-<!-- <details>
-  <summary><h3>📖 Reading</h3></summary>
-
-  | Pages| Author | Name |
-| :---: | :---: | :---: |
-| 544-544 | Martin Kleppmann | Designing data-intensive applications |
-| 112 - 347 | Thomas Hunter II | Distributed systems with Node.js |
-| 10 - 185 | Thomas Hunter II & Bryan English | Multithreaded JavaScript |
-| 0 - 355 | Teiva Harsanyi | 100 Go Mistakes and how to avoid them |
-
-</details> -->
 
 ## 💻 Tech Stack:
 
